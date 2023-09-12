@@ -1,4 +1,4 @@
-# Rock-Scissors-Paper-Lizard-Spock-Game
+# 🎮 Rock-Paper-Scissors-Lizard-Spock Game
 
 Challenge your friends or test your luck against the computer in this classic game with a geeky twist! Embrace the rules of Sheldon Cooper's favorite variation of Rock-Paper-Scissors. Will you emerge victorious with your cunning strategy, or will the computer outwit you?
 
